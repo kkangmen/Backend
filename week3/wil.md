@@ -1,6 +1,6 @@
-# What I learned in week2
+# What I learned in week3
 
-### 기초 백엔드 스터디 week2
+### 기초 백엔드 스터디 week3
 
 - **아키텍쳐 패턴이란?**
 
